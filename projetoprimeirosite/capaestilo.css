@@ -1,0 +1,33 @@
+body {
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    margin: 0;
+}
+
+#capa {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('wind-1599495_1920\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+button{
+    border: 0;
+    background-color: cadetblue;
+    padding: 1px;
+    height: 25px;
+}
+button:hover {
+    opacity: 0.5;
+    background-color: blue;
+    text-decoration: none;
+    color: aliceblue;
+}

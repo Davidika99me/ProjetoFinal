@@ -1,0 +1,86 @@
+
+body{
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    background-color: antiquewhite;
+}
+
+.centralizar{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.flex{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.itens{ 
+    display: flex;
+    gap: 10px;
+}
+
+.bloco{
+    width: 700px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.img{
+    width: 40px;
+    height: 40px;
+    align-items: center;
+}
+
+.icone{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.principal{
+    text-align: center;
+    margin-bottom: 60px;
+
+}
+
+.metas{
+   text-align: center;
+   margin-top: 40px;
+}
+
+#projeto{
+    margin-top: 40px;
+}
+
+.container{
+  width: 700px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.topicos{
+    text-align: left;
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    
+}
+
+
+.color{
+    background-color: aqua;
+}
+
+.edit{
+    background-color: yellowgreen;
+}
+a{
+    height: 60px;
+    width: 100px;
+    text-decoration: none;
+    background-color: black;
+    color:aliceblue;
+}
